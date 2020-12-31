@@ -5,3 +5,7 @@ Build and train the statistical model using past 6000 movies' data from IMDb (da
 ### Results 
 
 #### True IMDb Rating & Predicted Rating Table 
+![](image/imdb_table.png)
+
+#### True IMDb Rating & Predicted Rating Chart
+![](image/imdb_chart.png)
