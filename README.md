@@ -8,4 +8,4 @@ Build and train the statistical model using past 6000 movies' data from IMDb (da
 <img src="image/imdb_table.png" weight=500 height=300>
 
 #### True IMDb Rating & Predicted Rating Chart
-<img src="image/imdb_chart.png" weight=300 height=300>
+<img src="image/imdb_line.png" weight=300 height=300>
