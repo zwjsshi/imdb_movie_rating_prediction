@@ -1,3 +1,5 @@
+###Author: Anqi Chen, Jing Cui, Divya Jain, Evelyn Sun, Zewen Shi
+
 raw_films_dataset_2019 = read.csv('C:\\...\\films_dataset_2019.csv')
 
 attach(raw_films_dataset_2019)
